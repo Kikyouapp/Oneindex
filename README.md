@@ -6,8 +6,7 @@ Onedrive Directory Index
 
 直接列出 OneDrive 目录，文件直链下载。  
 
-## Demo
-[https://xn.tn](https://xn.tn)  
+## 文章链接：https://www.imotao.com/1422.html
 
 ## 安装运行
 
@@ -18,8 +17,6 @@ Onedrive Directory Index
 2、OneDrive 账号 (个人、企业版或教育版/工作或学校帐户)  
 3、OneIndex 程序   
 
-## 配置：
-<img width="658" alt="image" src="https://i.lia.im/git/install.gif">  
 
 ### 计划任务  
 [可选]**推荐配置**，非必需。后台定时刷新缓存，可增加前台访问的速度。  
